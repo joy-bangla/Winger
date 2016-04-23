@@ -314,7 +314,6 @@ void draw() {
   
 }
 
-
 void keyPressed() {
   if(key == 'h') {
     println("pressed h");
